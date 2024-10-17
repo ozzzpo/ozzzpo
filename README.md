@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я - Frontend-разработчик!
 
-<!--
-**ozzzpo/ozzzpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Тимур - будем знакомы😊 Здесь вы можете ознакомиться с моими проектами, навыками, а так же связаться со мной.
 
-Here are some ideas to get you started:
+## Стек технологий
+- **Язык программирования:** JavaScript
+- **Фреймворки:** React, Next.js
+- **State Management:** Redux, Zustand
+- **Работа с визуалом:** Figma, Pixso
+- **API:** REST, Websocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Pocket KAI](https://pocket-kai.ru) - Веб-приложение для просмотра расписания ВУЗа. Используется технология PWA; реализовано кэширование, работа без интернета, авторизация и просмотр расписания для разных групп.
+
+## Контакты
+- Почта: onehendrix04@gmail.com
+- Telegram: https://t.me/ozzzpo
