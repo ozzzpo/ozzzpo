@@ -5,7 +5,7 @@
 ## Стек технологий
 - **Язык программирования:** JavaScript
 - **Фреймворки:** React, Next.js
-- **State Management:** Redux, Zustand
+- **State Management:** Redux, Zustand, MobX
 - **Работа с визуалом:** Figma, Pixso
 - **API:** REST, Websocket
 
